@@ -1,0 +1,7 @@
+C:\Users\golya\source\repos\Практическая Работа №3\Практическая Работа №3\bin\Debug\Практическая Работа №3.exe.config
+C:\Users\golya\source\repos\Практическая Работа №3\Практическая Работа №3\bin\Debug\Практическая Работа №3.exe
+C:\Users\golya\source\repos\Практическая Работа №3\Практическая Работа №3\bin\Debug\Практическая Работа №3.pdb
+C:\Users\golya\source\repos\Практическая Работа №3\Практическая Работа №3\obj\Debug\Практическая Работа №3.csprojAssemblyReference.cache
+C:\Users\golya\source\repos\Практическая Работа №3\Практическая Работа №3\obj\Debug\Практическая Работа №3.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\Практическая Работа №3\Практическая Работа №3\obj\Debug\Практическая Работа №3.exe
+C:\Users\golya\source\repos\Практическая Работа №3\Практическая Работа №3\obj\Debug\Практическая Работа №3.pdb
